@@ -1,0 +1,13 @@
+export const connectionError = "خطأ فى الإتصال بقاعدة البيانات";
+export const dbTableError = "خطأ في قاعدة البيانات";
+export const requestError = "يوجد خطأ في طلبك";
+export const authentication = "غير مسموح لك بالولوج";
+export const googleAccount = "لا يمكنك إستخدام حساب جوجل الآن";
+export const dublicatedEmail = "هذا المُستخدم مُسجل من قبل";
+export const notFoundEmail = "بريدك الإلكتروني غير مُسجل";
+export const notFoundRoute = "الصفحة المطلوبة غير موجودة";
+export const verfiedEmail = "بريدك الإلكتروني مُفعل من قبل";
+export const expiredCode = "الكود المُستخدم غير صالح";
+export const codeError = "خطأ في الكود";
+export const passwordError = "خطأ في كلمة المرور";
+export const throttle = "لا يمكنك المحاولة الآن، حاول بعد قليل";

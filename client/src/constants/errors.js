@@ -1,0 +1,15 @@
+export const invalidName = "الإسم طويل أو قصير";
+export const requiredName = "الإسم مطلوب";
+export const invalidEmail = "البريد الإلكتروني خطأ";
+export const requiredEmail = "البريد الإلكتروني مطلوب";
+export const invalidTel = "رقم الجوال خطأ";
+export const requiredTel = "رقم الجوال مطلوب";
+export const invalidIdentity = "رقم الهوية خطأ";
+export const requiredIdentity = "رقم الهوية مطلوب";
+export const requiredRole = "نوع الحساب مطلوب";
+export const weakPassword = "كلمة المرور ضعيفة";
+export const requiredPassword = "كلمة المرور مطلوبة";
+export const requiredVerfCode = "كـود التحقق مطلوب";
+export const noConnection = "لا يوجد إتصال بالخادم";
+export const googleService = "لا يمكن استخدام حساب جوجل الآن";
+export const invalidConfirmation = "تأكد من مطابقة كلمة المرور";

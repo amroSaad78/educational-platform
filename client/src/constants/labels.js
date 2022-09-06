@@ -1,0 +1,10 @@
+export const userName = "اسم المُستخدم";
+export const userPassword = "كلمة المرور";
+export const userConfirmation = "تأكيد كلمة المرور";
+export const userEmail = "البريد الإلكتروني";
+export const userIdentity = "الهوية الوطنية";
+export const userTel = "رقم الجوال";
+export const userRole = "نوع الحساب";
+export const submit = "حفـظ";
+export const reset = "تفريـغ الحقـول";
+export const submitAndContinue = "حفظ ومتـابعة";
